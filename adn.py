@@ -5,6 +5,9 @@
     documentation here
 """
 
+__author__ = 'Alain Connu'
+
+
 
 def is_valid(adn_str):
     pass
